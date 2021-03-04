@@ -4,11 +4,12 @@
   "description": "Portfoilo",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "gsap": "^3.6.0",
     "node-sass": "^5.0.0"
   }
 }
