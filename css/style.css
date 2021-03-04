@@ -153,7 +153,7 @@ body {
     font-size: 1.5rem; }
 
 .header {
-  height: 95vh;
+  height: 85vh;
   background-image: linear-gradient(to bottom right, rgba(126, 213, 111, 0.8), rgba(40, 180, 133, 0.8)), url(../img/Hero.jpg);
   background-size: cover;
   background-position: top;
