@@ -152,6 +152,17 @@ body {
     max-width: 90rem;
     font-size: 1.5rem; }
 
+.section-skills__heading-primary {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 3rem; }
+
+.section-skills__fullList {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-around; }
+
 .header {
   height: 85vh;
   background-image: linear-gradient(to bottom right, rgba(126, 213, 111, 0.8), rgba(40, 180, 133, 0.8)), url(../img/Hero.jpg);

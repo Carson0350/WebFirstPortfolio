@@ -1,0 +1,29 @@
+.section-skills {
+
+
+  &__heading-primary {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 3rem;
+  }
+
+  &__fullList {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+  }
+
+  &__frontend {
+
+  }
+
+  &__backend {
+
+  }
+
+  &__devops {
+
+  }
+
+}
